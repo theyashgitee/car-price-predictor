@@ -5,6 +5,10 @@
 - Machine Learning model
 - Streamlit UI
 
-## Run:
-pip install streamlit
-streamlit run app.py
+To run this project:
+
+1. Download the repository
+2. Install requirements:
+   pip install streamlit scikit-learn numpy
+3. Run:
+   streamlit run app.py
